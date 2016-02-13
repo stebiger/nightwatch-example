@@ -1,0 +1,19 @@
+{
+  "name": "nightwatch-examples",
+  "version": "1.0.0",
+  "description": "An example module to illustrate the usage of nightwatchJS",
+  "author": "Stefan Billeb <stefan@devblog.brainoverload.de>",
+
+  "keywords": [
+	"nightwatchjs",
+	"guitesting",
+	"bdd"
+  ],
+
+  "dependencies": {
+  "nightwatch" : "0.8.16"
+  },
+
+  "private": true,
+  "license": "MIT"
+}
